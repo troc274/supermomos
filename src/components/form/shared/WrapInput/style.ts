@@ -34,7 +34,7 @@ export const SubLabel = styled.div`
 export const ErrorMessage = styled.div`
 	position: absolute;
 	color: ${({ theme }) => theme.colors.red};
-	top: calc(100% + 4px);
+	top: calc(100% + 2px);
 	left: 0;
 	font-size: 14px;
 
