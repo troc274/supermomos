@@ -5,6 +5,8 @@ export const Wrapper = styled.div`
 	align-items: center;
 	justify-content: space-between;
 	height: 80px;
+	position: relative;
+	z-index: 1;
 `;
 
 export const Logo = styled.img`

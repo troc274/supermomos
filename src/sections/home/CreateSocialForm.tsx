@@ -228,7 +228,7 @@ export default function CreateSocialForm() {
 					</WrapItem>
 				</Item>
 
-				<Item percent={52}>
+				<Item percent={60}>
 					<Collection
 						onChange={(value) => setSocialValue("banner", value)}
 						images={collections}
